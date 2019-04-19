@@ -10,4 +10,4 @@ Pdf files of the final magazine
 ### Software of creation
 * Adobe Indesign 2018
 * Adobe Photoshop CC 2016
-*Adobe Ilustrator CC 2015
+* Adobe Ilustrator CC 2015
