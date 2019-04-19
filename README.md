@@ -8,6 +8,6 @@ Every some the aldermans of the townhall of FCP Q Roo requires a report of activ
 Pdf files of the final magazine 
 
 ### Software of creation
-Adobe Indesign 2018
-Adobe Photoshop CC 2016
-Adobe Ilustrator CC 2015
+* Adobe Indesign 2018
+* Adobe Photoshop CC 2016
+*Adobe Ilustrator CC 2015
